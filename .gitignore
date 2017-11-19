@@ -39,3 +39,5 @@ cmake_install.cmake
 CMakeCache.txt
 vulpes-engine
 vulpes-engine.cbp
+include/
+lib/
